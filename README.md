@@ -5,3 +5,6 @@
 
 <h3> ◼️ Task-2: Temperature Converter 🌡</h3>
 <p> GUI program allows users to convert temperature from Celcius to Fahrenheit and vice versa </p>
+
+<h3> ◼️ Task-3: Simple Calculator 🧮 </h3>
+<p> Simple GUI calculator with basic arithmetic operations, allowing user to add, subtract, multiply, and divide numbers. </p>
